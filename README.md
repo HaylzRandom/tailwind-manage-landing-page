@@ -18,6 +18,7 @@ provided by
 - [@haylzrandom](https://www.github.com/haylzrandom)
 
 ## Screenshots
-
+Desktop Landing Page
 ![Desktop Landing Screenshot](./screenshots/Desktop-Landing.png)
+Mobile Landing Page
 ![Mobile Landing Screenshot](./screenshots/Mobile-Landing.png)
